@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sme777
-- 👀 I’m interested in graph and control theory, dna nanotechnology, convex optimization, and signal processing
-- 🌱 I’m currently learning about the Flow blockchain
+- 👀 I’m interested in graph and control theory, dna nanotechnology, synthetic biology, and convex optimization.
 - 📫 Best way to reach me is through email: sm3@berkeley.edu
 
 <!---
